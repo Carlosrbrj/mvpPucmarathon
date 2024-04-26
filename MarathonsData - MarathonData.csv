@@ -7,15 +7,15 @@ id,Marathon,Name,Category,km4week,sp4week,CrossTraining,Wall21,MarathonTime,CATE
 6,Prague17,David Pecina,M40,42.20,13.61,,1.32,2.78,A
 7,Prague17,Tomas Drabek,M40,89.00,12.59,,1.38,2.81,A
 8,Prague17,Jan Rada,M45,106.00,12.69,,1.41,2.84,A
-9,Prague17,Tomas Drabek,MAM,70.00,13.77,ciclista 1h,1.38,2.83,A
+9,Prague17,Tomas Drabek,MAM,70.00,13.77,ciclista,1.38,2.83,A
 10,Prague17,martin ?indel ?,M45,84.20,13.37,,1.35,2.86,A
 11,Prague17,Maksim Remezau,MAM,93.50,9.35,,1.42,2.87,A
 12,Prague17,Jaroslaw Marchewka,M50,65.70,13.36,,1.40,2.87,A
-13,Prague17,Tom ? K?e?ek,M45,53.50,14.08,ciclista 4h,1.37,2.88,A
+13,Prague17,Tom ? K?e?ek,M45,53.50,14.08,ciclista,1.37,2.88,A
 14,Prague17,Ji?، Polcar,M40,84.40,13.84,,1.41,2.88,A
 15,Prague17,Denis Wachtl,MAM,76.80,12.94,,1.44,2.89,A
 16,Prague17,David Lehnen,MAM,76.10,14.97,,1.45,2.90,A
-17,Prague17,Jپrgen Steiner,M55,112.30,12.59,ciclista 13h,1.44,2.91,A
+17,Prague17,Jپrgen Steiner,M55,112.30,12.59,ciclista,1.44,2.91,A
 18,Prague17,David Marek,M40,49.70,14.34,,1.44,2.91,A
 19,Prague17,Jan Fri?ek,MAM,84.50,12.55,,1.45,2.93,A
 20,Prague17,Vlastimil Lys k,MAM,76.70,08.31,,1.41,2.94,A
@@ -24,12 +24,12 @@ id,Marathon,Name,Category,km4week,sp4week,CrossTraining,Wall21,MarathonTime,CATE
 23,Prague17,Carlos Valladares Calvo,M40,59.40,12.64,,1.50,03.05,B
 24,Prague17,Jiri Syrovatko,M45,66.10,12.13,,1.48,03.09,B
 25,Prague17,Florian Kobler,MAM,67.40,12.88,,1.52,3.10,B
-26,Prague17,Jan Ro?ek,,23.80,13.47,ciclista 5h,,3.11,B
+26,Prague17,Jan Ro?ek,,23.80,13.47,ciclista,,3.11,B
 27,Prague17,Cat Simpson,WAM,129.60,12.19,,1.54,3.12,B
 28,Prague17,Pavel Hlo?ek,MAM,82.40,11.77,,1.52,3.14,B
 29,Prague17,Enrico Ballerin,M45,51.60,13.01,,1.50,3.15,B
 30,Prague17,Jaroslav Jur sek,M50,104.90,11.72,,1.57,3.16,B
-31,Prague17,Luka Slap?ak Pelliccioni,MAM,52.50,12.55,ciclista 3h,1.62,3.19,B
+31,Prague17,Luka Slap?ak Pelliccioni,MAM,52.50,12.55,ciclista,1.62,3.19,B
 32,Prague17,Ondrej Barta,MAM,79.40,13.34,,1.60,3.19,B
 33,Prague17,Emilio Zamarriego Garcia,M45,65.60,11.89,,1.51,3.21,B
 34,Prague17,Ian  LoriggioIan Loriggio,M50,112.40,12.28,,1.58,3.21,B
@@ -43,7 +43,7 @@ id,Marathon,Name,Category,km4week,sp4week,CrossTraining,Wall21,MarathonTime,CATE
 42,Prague17,Luis Salom,M55,58.80,12.83,,1.68,3.28,B
 43,Prague17,Thanasis Kypraios,MAM,82.70,11.65,,1.78,3.32,B
 44,Prague17,Filip Machart,MAM,32.20,12.71,,1.62,3.32,B
-45,Prague17,Dalibor Sma?inka,M40,27.70,11.62,ciclista 3h,1.67,3.32,B
+45,Prague17,Dalibor Sma?inka,M40,27.70,11.62,ciclista,1.67,3.32,B
 46,Prague17,Javier Abarca,MAM,68.00,11.79,,1.67,3.33,B
 47,Prague17,Kristen Stephenson,WAM,48.60,12.25,,1.66,3.33,B
 48,Prague17,Miguel Escribano,M45,39.60,12.25,,1.67,3.35,B
@@ -62,27 +62,27 @@ id,Marathon,Name,Category,km4week,sp4week,CrossTraining,Wall21,MarathonTime,CATE
 61,Prague17,Szigyarto Laszlo,M40,43.20,10.94,,1.76,3.55,C
 62,Prague17,Jaroslav Valeri n,MAM,54.10,11.12,,1.63,3.55,C
 63,Prague17,Ale? Kuchynka,M45,48.80,11.67,,1.66,3.56,C
-64,Prague17,Bradley Selmes,MAM,20.70,12.42,ciclista 5h,1.69,3.56,C
+64,Prague17,Bradley Selmes,MAM,20.70,12.42,ciclista,1.69,3.56,C
 65,Prague17,Frederic Bonningues,M40,54.20,11.78,,1.69,3.59,C
 66,Prague17,Barry Sacher,M45,60.30,11.71,,1.88,3.62,C
-67,Prague17,Michal korchan Michal,MAM,48.50,11.02,ciclista 3h,1.93,3.64,C
+67,Prague17,Michal korchan Michal,MAM,48.50,11.02,ciclista,1.93,3.64,C
 68,Prague17,Branislav Jacko,MAM,34.30,11.31,,1.74,3.64,C
 69,Prague17,Joost Saanen,MAM,59.10,10.91,,1.75,3.65,C
 70,Prague17,marek kolba,MAM,41.60,12.24,,1.80,3.67,C
 71,Prague17,Roy Bruhn,M45,87.00,11.47,,1.81,3.68,D
-72,Prague17,Martin Bo Meyer,M50,24.20,11.52,ciclista 3h,1.76,3.69,D
+72,Prague17,Martin Bo Meyer,M50,24.20,11.52,ciclista,1.76,3.69,D
 73,Prague17,Lucie Zona,WAM,52.30,11.71,,1.94,3.69,D
 74,Prague17,Pavel Szappanos,,53.60,12.71,,,3.75,D
 75,Prague17,Radim Rimanek,MAM,66.70,11.57,,1.90,3.76,D
-76,Prague17,Piers Ronan,MAM,23.90,12.05,ciclista 4h,1.85,3.78,D
-77,Prague17,Michal Karhan,MAM,40.30,08.38,ciclista 5h,1.94,3.80,D
+76,Prague17,Piers Ronan,MAM,23.90,12.05,ciclista,1.85,3.78,D
+77,Prague17,Michal Karhan,MAM,40.30,08.38,ciclista,1.94,3.80,D
 78,Prague17,Luk ? Pe?iva,MAM,30.60,11.06,,1.97,3.87,D
 79,Prague17,Chris Smith,MAM,28.00,28.00,,1.97,3.89,D
 80,Prague17,Martin Werner,MAM,53.90,11.80,,1.98,3.90,D
 81,Prague17,C‚dou Gatto,,38.10,11.04,,,3.90,D
 82,Prague17,Nathan Khan,MAM,35.60,11.13,,02.05,3.92,D
 83,Prague17,Stefano Vegliani,M55,50.00,10.83,,02.02,3.93,D
-84,Prague17,Andrej Madliak,M40,33.60,10.13,ciclista 3h,1.94,3.93,D
+84,Prague17,Andrej Madliak,M40,33.60,10.13,ciclista,1.94,3.93,D
 85,Prague17,Yoi Ohsako,M40,55.40,11.04,,1.94,3.94,D
 86,Prague17,Simon Dunn,M45,33.20,11.07,,02.05,3.95,D
-87,Prague17,Pavel ?imek,M40,17.90,10.85,ciclista 5h,02.05,3.98,D
+87,Prague17,Pavel ?imek,M40,17.90,10.85,ciclista,02.05,3.98,D
